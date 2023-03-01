@@ -1,0 +1,80 @@
+[
+    [
+        "Project 2.full credit tests.full credit: algorithm complexities.that canMake is linear",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 10
+        }
+    ],
+    [
+        "Project 2.full credit tests.full credit: algorithm complexities.that validMoves is linear",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 6
+        }
+    ],
+    [
+        "Project 2.full credit tests.full credit: algorithm complexities.that powerset is non-poly",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 30,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 21
+        }
+    ],
+    [
+        "Project 2.full credit tests.full credit: algorithm complexities.that greedyPlay is polynomial",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 340,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 113
+        }
+    ],
+    [
+        "Project 2.full credit tests.full credit: benchmarking gameplay algorithms.that bestPlay finishes in less than 3 minutes (CLOSEFLOOR x 2.5)",
+        {
+            "benchMaxRunTime": 180,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 10
+        }
+    ],
+    [
+        "Project 2.full credit tests.full credit: benchmarking gameplay algorithms.that bestPlay finishes in less than 10 seconds (CLOSEFLOOR x 3)",
+        {
+            "benchMaxRunTime": 10,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 10
+        }
+    ]
+]
